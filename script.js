@@ -1,9 +1,19 @@
-let idade = 105;
+// let idade = 105;
 
-idade += 3;
-// idade = idade + 1
+// idade += 3;
+// // idade = idade + 1
 
-console.log(idade)
+// console.log(idade)
+
+
+// ---------------------------------------------------------------------------------
+
+
+let nome = 'kaya'
+let idade = '19'
+let signo = 'aquario'
+
+alert(`meu nome é ${nome}, tenho ${idade} anos e meu signo é de ${signo}!!`)
 
 
  
